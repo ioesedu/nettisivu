@@ -1,0 +1,22 @@
+#container {
+    margin-top: 5%;
+    margin-left: 7%;
+    max-width: 50%;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#sub-heading-container {
+    padding-left: 20px;
+}
+
+body {
+    background-color:whitesmoke;
+}
+
+a {
+    text-decoration: none;
+}
+
+#title {
+    display: flex
+}
